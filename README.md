@@ -3,7 +3,9 @@
 
 📫 Connect With Me
 📧 Email: prajapatimukesh020196@gmail.com
-🐙 GitHub: [Add your GitHub profile URL](https://github.com/Mukesh1286)
+📞 +91-7020628605
+🐙 GitHub: https://github.com/Mukesh1286
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukesh-prajapati-mukesh/) 
