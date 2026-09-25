@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Mukesh Prajapati<br>💻 Full Stack Developer | 4+ Years Experience<br><br>I build scalable and responsive web applications using modern frontend and backend technologies.<br><br>🛠️ Tech Stack<br>⚛️ Frontend: React.js | Angular | Next.js | React Native<br>🟢 Backend: Node.js | Express.js | Java | Spring Boot | Microservices<br>🗄️ Database: MongoDB | MySQL<br>🐳 Tools: Docker | Git | GitHub | RabbitMQ | Keycloak | WebSocket<br>🤖 AI Tools: ChatGPT | GitHub Copilot | Cursor<br>🧪 Testing: Unit Testing
 
+📫 Connect With Me
+📧 Email: prajapatimukesh020196@gmail.com
+🐙 GitHub: [Add your GitHub profile URL](https://github.com/Mukesh1286)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukesh-prajapati-mukesh/) 
